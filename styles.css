@@ -1,0 +1,31 @@
+body{
+	background-color: #ECECEC;
+}
+.header{
+	background-image: url('https://img.freepik.com/premium-vector/gray-white-technology-background-cuttingedge-technology-and-science-line-design-can-be-used-as-a_262356-987.jpg');
+	background-size: cover;
+}
+a{
+	color: #0077FF;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+ul{
+	list-style-type: square;
+}
+input[type="text"], button{
+	background-color: #F2F2F2;
+	border: 1px solid #CCCCCC;
+	padding: 5px;
+}
+table{
+	border-collapse: collapse;
+	width: 100%;
+}
+th, td{
+	border: 1px solid #DDDDDD;
+	padding: 8px;
+	text-align: left;
+}
